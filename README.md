@@ -1,1 +1,1 @@
-# emmanuella-analytics-portfolio
+# mysql-data-queries
