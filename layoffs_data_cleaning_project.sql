@@ -197,3 +197,33 @@ from layoffs_staging2
 alter table layoffs_staging2
 drop column row_num
 ;
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+-- first thing I did was to create a staging table. This is the one I worked in and cleaned the data. I wanted a table with the raw data in case something happened
+-- now when I clean data I usually follow a few steps
+-- 1. check for duplicates and remove any
+-- 2. standardize data and fix errors
+-- 3. Look at null values and see what 
+-- 4. remove any columns and rows that are not necessary - few ways
+
+
+
+
+
+
+
+
+
+
